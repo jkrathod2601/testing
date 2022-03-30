@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is jay folder
+=======
+this is jay.txt from main
+>>>>>>> a53053f4e3b0631b82258848687a727efeee1b54
